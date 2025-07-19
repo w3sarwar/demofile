@@ -7,4 +7,5 @@
 </section>
 <h3>This is my article</h3>
 <a href>Read More</a>
-<b>This is bold</b>
+<i>this is italic</i>
+
